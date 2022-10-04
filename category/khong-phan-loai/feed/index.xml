@@ -12,14 +12,32 @@
 	<atom:link href="https://truongphuoctam.github.io/mywordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://truongphuoctam.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 14 Sep 2022 02:25:04 +0000</lastBuildDate>
-	<language>vi</language>
+	<lastBuildDate>Tue, 27 Sep 2022 00:53:38 +0000</lastBuildDate>
+	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>About As</title>
+		<link>https://truongphuoctam.github.io/mywordpress/2022/09/27/about-as/</link>
+					<comments>https://truongphuoctam.github.io/mywordpress/2022/09/27/about-as/#respond</comments>
+		
+		<dc:creator><![CDATA[truongphuoctam]]></dc:creator>
+		<pubDate>Tue, 27 Sep 2022 00:53:37 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://truongphuoctam.github.io/mywordpress/?p=999</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://truongphuoctam.github.io/mywordpress/2022/09/27/about-as/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Chào tất cả mọi người!</title>
 		<link>https://truongphuoctam.github.io/mywordpress/2022/09/07/chao-moi-nguoi/</link>
 					<comments>https://truongphuoctam.github.io/mywordpress/2022/09/07/chao-moi-nguoi/#comments</comments>
@@ -49,7 +67,7 @@
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://truongphuoctam.github.io/mywordpress/?p=142</guid>
 
-					<description><![CDATA[Tin nhanh Tổng hợp kết quả mới nhất về Man United Lịch thi đấu mùa giải 2022/23 Bản xếp hạng Premier League 2022/23 Thông Tin về Manchester United MANCHESTER UNITED Tên đầy đủ Câu lạc bộ bóng đá Manchester United Biệt danh Quỷ đỏ Tên ngắn gọn Man United; Utd<a class="moretag" href="https://truongphuoctam.github.io/mywordpress/2022/08/30/demo/"> Đọc tiếp&#8230;</a>]]></description>
+					<description><![CDATA[Tin nhanh Tổng hợp kết quả mới nhất về Man United Lịch thi đấu mùa giải 2022/23 Bản xếp hạng Premier League 2022/23 Thông Tin về Manchester United MANCHESTER UNITED Tên đầy đủ Câu lạc bộ bóng đá Manchester United Biệt danh Quỷ đỏ Tên ngắn gọn Man United; Utd<a class="moretag" href="https://truongphuoctam.github.io/mywordpress/2022/08/30/demo/"> Read more&#8230;</a>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-container-2 wp-block-columns are-vertically-aligned-top">
 <div class="wp-container-1 wp-block-column is-vertically-aligned-top" style="flex-basis:100%">
@@ -60,11 +78,11 @@
 
 
 <div class="wp-container-15 wp-block-columns">
-<div class="wp-container-6 wp-block-column"><nav class="wp-container-5 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng"><button aria-haspopup="true" aria-label="Mở menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-4"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+<div class="wp-container-6 wp-block-column"><nav class="wp-container-5 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng"><button aria-haspopup="true" aria-label="Open menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-4"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
 			<div class="wp-block-navigation__responsive-container  " style="" id="modal-4">
 				<div class="wp-block-navigation__responsive-close" tabindex="-1" data-micromodal-close>
 					<div class="wp-block-navigation__responsive-dialog" aria-label="Menu">
-							<button aria-label="Đóng menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+							<button aria-label="Close menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
 						<div class="wp-block-navigation__responsive-container-content" id="modal-4-content">
 							
 <ul class="wp-container-3 wp-block-social-links"><li class="wp-social-link wp-social-link-youtube wp-block-social-link"><a href="https://www.youtube.com/c/manutd/featured"  class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M21.8,8.001c0,0-0.195-1.378-0.795-1.985c-0.76-0.797-1.613-0.801-2.004-0.847c-2.799-0.202-6.997-0.202-6.997-0.202 h-0.009c0,0-4.198,0-6.997,0.202C4.608,5.216,3.756,5.22,2.995,6.016C2.395,6.623,2.2,8.001,2.2,8.001S2,9.62,2,11.238v1.517 c0,1.618,0.2,3.237,0.2,3.237s0.195,1.378,0.795,1.985c0.761,0.797,1.76,0.771,2.205,0.855c1.6,0.153,6.8,0.201,6.8,0.201 s4.203-0.006,7.001-0.209c0.391-0.047,1.243-0.051,2.004-0.847c0.6-0.607,0.795-1.985,0.795-1.985s0.2-1.618,0.2-3.237v-1.517 C22,9.62,21.8,8.001,21.8,8.001z M9.935,14.594l-0.001-5.62l5.404,2.82L9.935,14.594z"></path></svg><span class="wp-block-social-link-label screen-reader-text">YouTube</span></a></li></ul>
@@ -76,11 +94,11 @@
 
 
 
-<div class="wp-container-10 wp-block-column"><nav class="wp-container-9 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng 2"><button aria-haspopup="true" aria-label="Mở menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-8"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+<div class="wp-container-10 wp-block-column"><nav class="wp-container-9 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng 2"><button aria-haspopup="true" aria-label="Open menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-8"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
 			<div class="wp-block-navigation__responsive-container  " style="" id="modal-8">
 				<div class="wp-block-navigation__responsive-close" tabindex="-1" data-micromodal-close>
 					<div class="wp-block-navigation__responsive-dialog" aria-label="Menu">
-							<button aria-label="Đóng menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+							<button aria-label="Close menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
 						<div class="wp-block-navigation__responsive-container-content" id="modal-8-content">
 							
 <ul class="wp-container-7 wp-block-social-links"><li class="wp-social-link wp-social-link-facebook wp-block-social-link"><a href="https://www.facebook.com/manchesterunited"  class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Facebook</span></a></li></ul>
@@ -92,11 +110,11 @@
 
 
 
-<div class="wp-container-14 wp-block-column"><nav class="wp-container-13 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng 4"><button aria-haspopup="true" aria-label="Mở menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-12"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+<div class="wp-container-14 wp-block-column"><nav class="wp-container-13 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng 4"><button aria-haspopup="true" aria-label="Open menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-12"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
 			<div class="wp-block-navigation__responsive-container  " style="" id="modal-12">
 				<div class="wp-block-navigation__responsive-close" tabindex="-1" data-micromodal-close>
 					<div class="wp-block-navigation__responsive-dialog" aria-label="Menu">
-							<button aria-label="Đóng menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+							<button aria-label="Close menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
 						<div class="wp-block-navigation__responsive-container-content" id="modal-12-content">
 							
 <ul class="wp-container-11 wp-block-social-links"><li class="wp-social-link wp-social-link-twitter wp-block-social-link"><a href="https://twitter.com/ManUtd_AR"  class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M22.23,5.924c-0.736,0.326-1.527,0.547-2.357,0.646c0.847-0.508,1.498-1.312,1.804-2.27 c-0.793,0.47-1.671,0.812-2.606,0.996C18.324,4.498,17.257,4,16.077,4c-2.266,0-4.103,1.837-4.103,4.103 c0,0.322,0.036,0.635,0.106,0.935C8.67,8.867,5.647,7.234,3.623,4.751C3.27,5.357,3.067,6.062,3.067,6.814 c0,1.424,0.724,2.679,1.825,3.415c-0.673-0.021-1.305-0.206-1.859-0.513c0,0.017,0,0.034,0,0.052c0,1.988,1.414,3.647,3.292,4.023 c-0.344,0.094-0.707,0.144-1.081,0.144c-0.264,0-0.521-0.026-0.772-0.074c0.522,1.63,2.038,2.816,3.833,2.85 c-1.404,1.1-3.174,1.756-5.096,1.756c-0.331,0-0.658-0.019-0.979-0.057c1.816,1.164,3.973,1.843,6.29,1.843 c7.547,0,11.675-6.252,11.675-11.675c0-0.178-0.004-0.355-0.012-0.531C20.985,7.47,21.68,6.747,22.23,5.924z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Twitter</span></a></li></ul>
@@ -252,7 +270,7 @@
 		<category><![CDATA[top 5 mẫu áo đẹp]]></category>
 		<guid isPermaLink="false">https://truongphuoctam.github.io/mywordpress/?p=7</guid>
 
-					<description><![CDATA[TOP 5 Mẫu áo sân khách mùa giải 2012-2013 Mẫu áo đấu Machester United này&#160;khá đơn giản song bắt mắt hơn rất nhiều so với chiếc áo đấu màu đỏ khi thi đấu sân nhà. Chiếc áo lấy màu trắng là gam màu chủ đạo, viền cổ áo và viền<a class="moretag" href="https://truongphuoctam.github.io/mywordpress/2022/08/23/manchester-united/"> Đọc tiếp&#8230;</a>]]></description>
+					<description><![CDATA[TOP 5 Mẫu áo sân khách mùa giải 2012-2013 Mẫu áo đấu Machester United này&#160;khá đơn giản song bắt mắt hơn rất nhiều so với chiếc áo đấu màu đỏ khi thi đấu sân nhà. Chiếc áo lấy màu trắng là gam màu chủ đạo, viền cổ áo và viền<a class="moretag" href="https://truongphuoctam.github.io/mywordpress/2022/08/23/manchester-united/"> Read more&#8230;</a>]]></description>
 										<content:encoded><![CDATA[
 <div class="wp-container-34 wp-block-columns are-vertically-aligned-top">
 <div class="wp-container-33 wp-block-column is-vertically-aligned-top" style="flex-basis:100%">
@@ -263,11 +281,11 @@
 
 
 <div class="wp-container-47 wp-block-columns">
-<div class="wp-container-38 wp-block-column"><nav class="wp-container-37 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng 2"><button aria-haspopup="true" aria-label="Mở menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-36"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+<div class="wp-container-38 wp-block-column"><nav class="wp-container-37 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng 2"><button aria-haspopup="true" aria-label="Open menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-36"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
 			<div class="wp-block-navigation__responsive-container  " style="" id="modal-36">
 				<div class="wp-block-navigation__responsive-close" tabindex="-1" data-micromodal-close>
 					<div class="wp-block-navigation__responsive-dialog" aria-label="Menu">
-							<button aria-label="Đóng menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+							<button aria-label="Close menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
 						<div class="wp-block-navigation__responsive-container-content" id="modal-36-content">
 							
 <ul class="wp-container-35 wp-block-social-links"><li class="wp-social-link wp-social-link-youtube wp-block-social-link"><a href="https://www.youtube.com/c/manutd/featured"  class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M21.8,8.001c0,0-0.195-1.378-0.795-1.985c-0.76-0.797-1.613-0.801-2.004-0.847c-2.799-0.202-6.997-0.202-6.997-0.202 h-0.009c0,0-4.198,0-6.997,0.202C4.608,5.216,3.756,5.22,2.995,6.016C2.395,6.623,2.2,8.001,2.2,8.001S2,9.62,2,11.238v1.517 c0,1.618,0.2,3.237,0.2,3.237s0.195,1.378,0.795,1.985c0.761,0.797,1.76,0.771,2.205,0.855c1.6,0.153,6.8,0.201,6.8,0.201 s4.203-0.006,7.001-0.209c0.391-0.047,1.243-0.051,2.004-0.847c0.6-0.607,0.795-1.985,0.795-1.985s0.2-1.618,0.2-3.237v-1.517 C22,9.62,21.8,8.001,21.8,8.001z M9.935,14.594l-0.001-5.62l5.404,2.82L9.935,14.594z"></path></svg><span class="wp-block-social-link-label screen-reader-text">YouTube</span></a></li></ul>
@@ -279,11 +297,11 @@
 
 
 
-<div class="wp-container-42 wp-block-column"><nav class="wp-container-41 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng 2 2"><button aria-haspopup="true" aria-label="Mở menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-40"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+<div class="wp-container-42 wp-block-column"><nav class="wp-container-41 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng 2 2"><button aria-haspopup="true" aria-label="Open menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-40"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
 			<div class="wp-block-navigation__responsive-container  " style="" id="modal-40">
 				<div class="wp-block-navigation__responsive-close" tabindex="-1" data-micromodal-close>
 					<div class="wp-block-navigation__responsive-dialog" aria-label="Menu">
-							<button aria-label="Đóng menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+							<button aria-label="Close menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
 						<div class="wp-block-navigation__responsive-container-content" id="modal-40-content">
 							
 <ul class="wp-container-39 wp-block-social-links"><li class="wp-social-link wp-social-link-facebook wp-block-social-link"><a href="https://www.facebook.com/manchesterunited"  class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M12 2C6.5 2 2 6.5 2 12c0 5 3.7 9.1 8.4 9.9v-7H7.9V12h2.5V9.8c0-2.5 1.5-3.9 3.8-3.9 1.1 0 2.2.2 2.2.2v2.5h-1.3c-1.2 0-1.6.8-1.6 1.6V12h2.8l-.4 2.9h-2.3v7C18.3 21.1 22 17 22 12c0-5.5-4.5-10-10-10z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Facebook</span></a></li></ul>
@@ -295,11 +313,11 @@
 
 
 
-<div class="wp-container-46 wp-block-column"><nav class="wp-container-45 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng 4 2"><button aria-haspopup="true" aria-label="Mở menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-44"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
+<div class="wp-container-46 wp-block-column"><nav class="wp-container-45 is-content-justification-center is-responsive items-justified-center wp-block-navigation" aria-label="Điều hướng 4 2"><button aria-haspopup="true" aria-label="Open menu" class="wp-block-navigation__responsive-container-open " data-micromodal-trigger="modal-44"><svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="4" y="7.5" width="16" height="1.5" /><rect x="4" y="15" width="16" height="1.5" /></svg></button>
 			<div class="wp-block-navigation__responsive-container  " style="" id="modal-44">
 				<div class="wp-block-navigation__responsive-close" tabindex="-1" data-micromodal-close>
 					<div class="wp-block-navigation__responsive-dialog" aria-label="Menu">
-							<button aria-label="Đóng menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
+							<button aria-label="Close menu" data-micromodal-close class="wp-block-navigation__responsive-container-close"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" focusable="false"><path d="M13 11.8l6.1-6.3-1-1-6.1 6.2-6.1-6.2-1 1 6.1 6.3-6.5 6.7 1 1 6.5-6.6 6.5 6.6 1-1z"></path></svg></button>
 						<div class="wp-block-navigation__responsive-container-content" id="modal-44-content">
 							
 <ul class="wp-container-43 wp-block-social-links"><li class="wp-social-link wp-social-link-twitter wp-block-social-link"><a href="https://twitter.com/ManUtd_AR"  class="wp-block-social-link-anchor"><svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><path d="M22.23,5.924c-0.736,0.326-1.527,0.547-2.357,0.646c0.847-0.508,1.498-1.312,1.804-2.27 c-0.793,0.47-1.671,0.812-2.606,0.996C18.324,4.498,17.257,4,16.077,4c-2.266,0-4.103,1.837-4.103,4.103 c0,0.322,0.036,0.635,0.106,0.935C8.67,8.867,5.647,7.234,3.623,4.751C3.27,5.357,3.067,6.062,3.067,6.814 c0,1.424,0.724,2.679,1.825,3.415c-0.673-0.021-1.305-0.206-1.859-0.513c0,0.017,0,0.034,0,0.052c0,1.988,1.414,3.647,3.292,4.023 c-0.344,0.094-0.707,0.144-1.081,0.144c-0.264,0-0.521-0.026-0.772-0.074c0.522,1.63,2.038,2.816,3.833,2.85 c-1.404,1.1-3.174,1.756-5.096,1.756c-0.331,0-0.658-0.019-0.979-0.057c1.816,1.164,3.973,1.843,6.29,1.843 c7.547,0,11.675-6.252,11.675-11.675c0-0.178-0.004-0.355-0.012-0.531C20.985,7.47,21.68,6.747,22.23,5.924z"></path></svg><span class="wp-block-social-link-label screen-reader-text">Twitter</span></a></li></ul>

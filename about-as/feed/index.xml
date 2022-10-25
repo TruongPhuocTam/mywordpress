@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho Home	</title>
-	<atom:link href="https://truongphuoctam.github.io/mywordpress/comments/feed/" rel="self" type="application/rss+xml" />
+	Các phản hồi luận về: About As	</title>
+	<atom:link href="https://truongphuoctam.github.io/mywordpress/about-as/feed/" rel="self" type="application/rss+xml" />
 	<link>https://truongphuoctam.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 25 Oct 2022 08:02:08 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 25 Oct 2022 00:45:45 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
